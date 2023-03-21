@@ -13,6 +13,37 @@
       "id": 4
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Electronic Concrete Ball",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Frozen Mouse",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Rubber Chair",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Plastic Cheese",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Granite Chips",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Wooden Gloves",
+      "id": 21
+    }
+  ],
   "photos": []
 }
