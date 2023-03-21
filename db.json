@@ -43,7 +43,48 @@
       "userId": 1,
       "title": "Licensed Wooden Gloves",
       "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Rubber Tuna",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Generic Soft Hat",
+      "id": 23
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44832",
+      "id": 1
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80982",
+      "id": 2
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30227",
+      "id": 3
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20439",
+      "id": 4
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=99802",
+      "id": 5
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71848",
+      "id": 6
+    }
+  ]
 }
